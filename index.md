@@ -1,8 +1,6 @@
 Introduction
 ============
 
-This site is intended as a 'rolling reference' for the ESE module EART40003 Programming for Geoscientists. It now contains material from the whole course.
-
 Use these documents to search for definitions, aspects of python syntax, methods and functions etc that we have covered.
 
 [Definitions](definitions.md)
